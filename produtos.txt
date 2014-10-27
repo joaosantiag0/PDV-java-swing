@@ -1,0 +1,5 @@
+1|Feijão|3.00
+2|Arroz|3.50
+3|Café|4.00
+4|Açucar|2.00
+5|Farinha|4.00
